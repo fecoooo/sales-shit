@@ -1,0 +1,24 @@
+mit dolgozik
+fizetes 10% az ajanlat
+
+mennyit kozlekedik
+
+betegseg: fiatlaanak mindig a 32-es
+
+mutet: barmely oku (ritkabb h baleset kapcsan kapok)
+
+korhazi ellatas: barmely oku (hasmenes miatt bennmarad)
+
+csonntores/eges: nagyon olcso, 154 ft
+
+MetLine/MetOnline: 
+	gyerekes anyáknak, 
+	minden orvosi kerdesre valaszolnak (lejart gyogyszer, ecetet ivott a gyerek, melyik a legkozelebbi korhazt nyitva, melyik orvost ajanljak, stb.)
+	
+critical care fül alul:
+	5 evre/10 evre/lifetime ra kotve a legolcsobb e
+	
+metmax == metcare:
+	egyosszeg vagy passziv
+	csak mas a jutalek, az egyiknel kisebb az azonnali, de lesz pasziv bevetel
+	pl: critial care 32 betegsegre, a tobbi meg metmax --> egyosszeg
