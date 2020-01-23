@@ -176,7 +176,7 @@ nyugdij:
 	40+ már kalkulalando
 	--> ugynaz az eletszinvonal ami most van
 
-	onkentes maganyudij penztar:
+	onkentes nyugdij penztar:
 		magannyugdijpenztar "kistestvere" 
 			--> para, ami miatt ami azzaél tortent
 			--> legnagyobb adokedvezmeny
@@ -237,7 +237,51 @@ nyugdíj tablazat:
 
 	adokedvezmeny egy 3. számlára megy
 
-	
+2020.01.23.
+	Metlife:
+		706 millio 2019
+		150 éve stabil
+		Európa 20 orzságában piacvezető
+		legkedvezőbb ajlanlat
+		2-6 nap
+		
+	életbizt:
+		4 év gyász
+		hitel
+		ne erre menjen a félretett pénz
+		
+	CC:
+		MO: 
+			halál oka 95,4% kritikus betegség, (Amerika 11%)
+			41% 1.5 év alatt meghal
+		TB szar
+		megtakarítás ne erre
+		táppénz: max 1 év 60%
+		költsd: gyogyszer, fizetetlen szabi családtag, rezsi
+		
+	rokkantság:
+		következmények:
+			munka elvesztése
+			bevétel elvesztése
+			kezelések fizetése
+			átalakítani a lakást
+			
+		az állami támogatás kevés
+		
+	kórházi térítés:
+		60% fizu, vagy vállakozónak 0%
+		
+	műtét:
+		költsd: 
+			magánkórházaz
+			otthon pihenés, addig van bevétel
+			
+	asszisztencia:
+		gyereks szuloknek
+		információk: ugyelet, gyogyszerek, kezelések, betegségek, mit tegyek ha
+		szakorvosi vizsgálat, konzultácio ajánlás/szervezés
+		2. szakvélemény
+		online orvosi, táplálkozási, stb. tanácsadás
 
 
 
