@@ -147,7 +147,8 @@ kritikus betegség (pl.: daganat):
 biztositas vs tb:
 	- 7000 a TB, ez jo kiindulasi alap az arszabasra, mit kapok ugyanazert a penzert
 	
-minimum ertekek:
+minimum ertekek: 
+	megjegyzendo: 10 millio - 300k - 5000
 	kritikus betegseg:
 		10 millio
 	mutet: 
@@ -195,8 +196,9 @@ nyugdij:
 			a masik 2 valtozhat
 			
 		
-		mehet a 3 egyutt, de max 850 ig jar kedvezmeny
-
+		max 280 at fizet az allam: 
+			ehhez pl 750 elotakarossagi + 650 biztositas ==ezek a szamok nem biztosak de a 280 igen
+		
 nyugdíj tablazat:
 	értékkövetés:
 		3%: általában korrekt
@@ -282,10 +284,20 @@ nyugdíj tablazat:
 		szakorvosi vizsgálat, konzultácio ajánlás/szervezés
 		2. szakvélemény
 		online orvosi, táplálkozási, stb. tanácsadás
+2020.01.23. szerdai találkozó	
+	hívás:
+		Ki vagyok, kit keresek
+		Öngondoskodotol hivom, toltott ki kerdoivet
+		van e ideje h megbeszeljuk? 5 percet vesz igenybe
+		
+		talalkozo:
+			hol, mikor talalkozo
 
-
-
-
+		fizikai munkakorre rakerdezni
+		betegsegre rakerdezni
+		
+		ne mondjuk, hogy biztositas
+		helyette ongondoskodas, vedelem
 
 
 
