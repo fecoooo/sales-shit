@@ -2,7 +2,8 @@ elso telefon (még nincs ajánlat)
 	- miylen fizikai munka
 	- milyen EÜ-s multja van?
 	- melyik ajanlat erdekli a legjobban
-	- milyen fedezeti összegre gondolt?
+	- milyen fedezeti összegre gondolt?	
+5-10	
 
 SOMA:
 	Szabadido
@@ -25,4 +26,3 @@ Rendelo hol található
 Melyik orvos megbízható
 Ecetet ivott a gyerek, mit kell tenni
 Mi van a gyógyszerben, mivel helyettesítheto
-
