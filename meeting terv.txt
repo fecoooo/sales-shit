@@ -34,20 +34,54 @@ Smalltalk:
 		Van kérdés?
 		
 Metlife:
-	Amerikai cég, ott ugye az marad fenn aki jol csinalja
-	150 éve 
-	Titanic
-	Europa 20 orszagaban piacvezeto
+	Amerikai cég, 
+	amerikai EÜ, ott ugye az marad fenn aki jol csinalja
+	150 éve sikerül fennmaradni
+	Titanic 1912
+	
+	100M ügyfél globálisan
+	Europa 20 orszagaban piacvezeto 
+	szolgáltatások: élet, betegség, megtakarítás
+	
+	tavaly:
+		nincs peres ügy 
+		706 milliot fizettek ki itthon
+	
 	2-6 napon belül fizet
-	tavaly 706 milliot fizettek ki itthon
+	cigi, alkohol
 	
 	Van kérdés?
 	
 Én:
-	Oszinten, sok eloadason voltam: a sales lenyege h megszeressen az ugyfel, de en ebben nem hiszek es nem is megy. En hoztam valamit ami jo, hasznos, es hiszek benne, racionalis erveket adok
-	nekem is nyilvan jar ezert penz, nekem akkor jo, ha on nem bont szerzodest, így érdekem, hogy jót ajánljak
+	Dajka Ferenc vagyok, az egészségügyi biztonság megteremtésében segítek. 
+	Mindig is motivalt, mert szeretek segiteni, és belso motivacio is az EÜ biztonság.
+	Én nagyon szerettem volna sok penzt, és ezt azért szerettem volna, hogyha megbetegszem, akkor legyen mibol meggyogyulnom, a TB-vel sok gondom van, sornbanállás, nem figyelnek az emberre.
+	Szoval en ebben tudok hinni. 
+	Nagyon megörültem, amikor megtudtam, hogy ehhez elég havi néhányezer forintot fizetnem, és így is meg van ez a biztonságom. Anyagilag jobban megeri, mert nem kell annyi penzt összeségében felhalmoznom. 
+	Ez a biztositonak is jo, mert egy kozos kasszaba gyulik kevesebben fognak megbetegedni, mint ahanyan gyujtenek. A biztosito erdeke is a jo szolgaltatas.
 	
 	Van kérdés?
+
+28000 nap
+	76.61 év
+	-11500 nap no income (retire, gyerekkor)
+	
+	- ön itt áll, ez a szelet van még hátra a nyugdijig, hogy megvalosithassa anyagi vágyait
+	
+	aki tudatosan, elorelátóan gondolkodnak, az ido mulása sokakat meg tud ijeszteni -> 4 kérdés szokott felmerülni
+	
+	4 kérdés:
+		Mi van ha nem tudok 60 ig dolgozni?
+			Szerettem volna ezt megvenni, elérni. Hitelem volt
+		Mi van ha meghalok 60 éves koromig?
+			Temetés, 
+			Hiteltartozás átszáll a családra
+			Gyerekek életútja
+			Ne kelljen sajéát szebbe nyúlni
+		Mennyi pénz kell ahhoz, hogy nyugdijba menjek?
+		Hogyan legyek biztos abban, hogy a gyerekeimnek lesz elég eroforrása, hogy elkezdhessék az életet?
+		
+		
 	
 Ajánlat:
 	Amiket kért:
@@ -64,9 +98,18 @@ Ajánlat:
 		mutét:
 			150k
 			
+		CC32:
+			mindet kifizet a biztosito
+			
 	Van kérdés?			
 			
-			
+Ajánláskérés:
+	Ennyi lenne nagyjabol. Mit gondol? Tetszettek az elmondottak?
+	Örülök, ha tudtam segíteni. Mások számára is az lehet?             
+	//ez kell? Ha tetszett ajánlaná másoknak is?
+	Mit gondol, az ön ismerettségében kinek lehet hasznos?
+	
+	
 			
 			
 			
