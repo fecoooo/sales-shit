@@ -9,8 +9,13 @@ Ajanlatok:
 	- műtét: penzkieses, 60%
 	- korhazi nap: szintugy
 	- csonttörés: marha olcsó, bárivel előfordul
-	- betegség: 
+	- betegség
 
-Munka:
-Betegség:
-Összeg:
+Munka: sales team manager
+Betegség:asztma, allergia
+Összeg: 15-20k
+Érdekli:
+	- rokkantság
+	- csonttörés égési
+	- betegség
+	- haláleseti
