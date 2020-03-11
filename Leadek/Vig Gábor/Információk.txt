@@ -1,5 +1,5 @@
 elso telefon (még nincs ajánlat) 
-	- miylen fizikai munka		
+	- miylen fi-zikai munka
 	- milyen EÜ-s multja van?
 	- melyik ajanlat erdekli a legjobban
 	- milyen fedezeti összegre gondolt?	
@@ -11,8 +11,10 @@ Ajanlatok:
 	- csonttörés: marha olcsó, bárivel előfordul
 	- betegség
 
-Munka: 
-Betegség:
-Összeg: 
+
+Munka: Autokereskedesben dolgozik (semmi veszely)
+Betegség: nem volt, epekove mondjuk van
+Összeg: nem tudja, én 10-15 öt javasoltam
 Érdekli:
+	+élet és csonmttoresrol ebszeltem neki,a tobbi is erdekli
 	
